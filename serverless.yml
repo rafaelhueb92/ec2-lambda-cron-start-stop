@@ -12,7 +12,7 @@ provider:
         - "ec2:*"
       Resource: "*"
 
-# functions:
+functions:
 #  start-ec2:
 #    handler: handler.start_ec2
 #    timeout: 60
